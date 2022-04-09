@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @knittedcables
+- 👀 Complete beginner with a humanities (history) background
+- 🌱 I’m currently learning SQL using MSSQL Server with a test database recording my Wordle scores.
